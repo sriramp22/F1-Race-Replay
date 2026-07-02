@@ -1,0 +1,12 @@
+# Python (backend)
+__pycache__/
+*.pyc
+cache/
+
+# Node / frontend
+node_modules/
+dist/
+
+# Editor / OS
+.DS_Store
+.vscode/
